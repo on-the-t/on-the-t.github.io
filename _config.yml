@@ -11,8 +11,8 @@ permalink:        pretty
 # Setup
 title:            on the t
 tagline:          'Tennis + Statistics'
-url:              http://www.on_the_t.com
-shorturl:         on_the_t.com
+url:              http://www.on-the-t.com
+shorturl:         on-the-t.com
 
 author:
   name:           'on the t'
@@ -24,7 +24,7 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           github.com/skoval/on_the_t
+  repo:           github.com/on-the-t/on-the-t.github.io
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
