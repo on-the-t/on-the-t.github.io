@@ -3,31 +3,12 @@ layout: page
 title: About
 ---
 
-![Here I am at the 2013 Rose Bowl.](/assets/stanford_rosebowl_photo_2013-e1361222975696-940x689.jpg)
+The sabermetric revolution popularized by _Moneyball_ forever changed the way we experience and appreciate America's pasttime. 
 
-I am a Senior Data Scientist at [Twitter](http://twitter.com) working on
-their analytics team. I have always been fascinated by technology
-and especially tools for analysing and interpreting information.
-I want to use this website to help teach people new skills.
-Recently, I have written about 
-[Jekyll]({% post_url 2014-02-03-jekyll-github-pages-poole %}) and
-[Apache Pig]({% post_url 2014-02-11-cube-rollup-pig-data-science %}).
+Over the past decade, the other major professional team sports have begun to invest more and more resources into analytics. More high-quality data, like Sports VU, is being collected. And more statisticians have been put into full-time positions to help team managers get the most insight from these data. Almost over night, metrics like WAR and Real +/- have become common parlance of sports commentators and fans. Analytics have entered the sports arena and forever changed the way we think about our favorite games. 
 
-Before working at Twitter, I was a Data Science Fellow at the
-[Insight Data Science Fellowship](http://insightdatascience.com).
-Before that, I got a PhD in physics from [Stanford
-University](http://stanford.edu) studying [pulsar wind
-Nebulae](http://en.wikipedia.org/wiki/Pulsar_wind_nebula).  I have
-written about my PhD research experience 
-[here]({% post_url 2013-02-14-searching-pulsar-wind-nebulae-kipac %}), and software I helped
-develop during my PhD [here]({% post_url 2013-02-01-pointlike-fitting-package %}).
+While the revolution in statistical thinking in sports has taken off like Usain Bolt for some sports, it has been slow-going for others. Tennis is one example where innovation in analytics has been limited. Match summaries provided by broadcasters are still limited to simple counts. And more sophisticiated analysis have been laughed at by savvy consumers of sports statistics for being useless.
 
-Before that, I was an undergraduate at [Marlboro
-College](http://www.marlboro.edu/) in Vermont.  I wrote about my
-undergraduate research
-[here]({% post_url 2013-02-14-physics-marlboro-college-vermont %}), as
-well as my research during two undergraduate physics internships
-[here]({% post_url 2013-02-14-health-impact-solar-particle-events-sstorm %}), and
-[here]({% post_url 2013-02-12-simulating-deep-lens-survey-davis %}).
+Tennis is in need of analytics revolution. _On the T_ aims to contribute to that goal by presenting stories about tennis that combine visualizations, statistics, and data to gain insight into the game and have some fun along the way.
 
-If you like my website, you can follow me on twitter [@joshualande](https://twitter.com/joshualande).
+If you like the stories you find here, follow the site's twitter account ...
