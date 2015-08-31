@@ -3,16 +3,16 @@ markdown:         redcarpet
 redcarpet:
   extensions: ["tables"]
 
-pygments:         true
+highlighter:         true
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            on the t
-tagline:          'Tennis + Statistics'
-url:              http://on-the-t.com
-shorturl:         on-the-t.com
+#title:            on the t
+#tagline:          'Tennis + Statistics'
+#url:              http://on-the-t.com
+#shorturl:         on-the-t.com
 
 author:
   name:           'on the t'
@@ -34,5 +34,5 @@ pages_list:
 
 # Allow URL Redirects: 
 #  * https://help.github.com/articles/redirects-on-github-pages
-gems:
-  - jekyll-redirect-from
+#gems:
+#  - jekyll-redirect-from
