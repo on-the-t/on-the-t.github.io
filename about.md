@@ -3,12 +3,16 @@ layout: page
 title: About
 ---
 
-The sabermetric revolution popularized by _Moneyball_ forever changed the way we experience and appreciate America's pasttime. 
+The sabermetric revolution popularized by _Moneyball_ forever changed the way we experience and appreciate America's pastime, and the world's sports have taken notice.
 
-Over the past decade, the other major professional team sports have begun to invest more and more resources into analytics. More high-quality data, like Sports VU, is being collected. And more statisticians have been put into full-time positions to help team managers get the most insight from these data. Almost over night, metrics like WAR and Real +/- have become common parlance of sports commentators and fans. Analytics have entered the sports arena and forever changed the way we think about our favorite games. 
+Over the past decade, the other major professional team sports have begun to follow the MLB's lead. Every day teams are investing more in high-quality data and analysts are becoming an increasinly essential part of a club's talent.
 
-While the revolution in statistical thinking in sports has taken off like Usain Bolt for some sports, it has been slow-going for others. Tennis is one example where innovation in analytics has been limited. Match summaries provided by broadcasters are still limited to simple counts. And more sophisticiated analysis have been laughed at by savvy consumers of sports statistics for being useless.
+By now, the effects of this change have spread through the sports media. Almost over night, metrics like [WAR](https://en.wikipedia.org/wiki/Wins_Above_Replacement) and [RPM](http://espn.go.com/nba/story/_/id/10740818/introducing-real-plus-minus) have become common parlance of sports commentators and fans. And the quant-heavy storytelling of sites like [fangraphs](http://www.fangraphs.com) and [fivethirtyeight](http://fivethirtyeight.com) are helping to make statistical thinking in sports cool. 
 
-Tennis is in need of analytics revolution. _On the T_ aims to contribute to that goal by presenting stories about tennis that combine visualizations, statistics, and data to gain insight into the game and have some fun along the way.
+Yet, in the midst of this analytic boom in sports, tennis is getting left behind. The stats that are used today to summarize player performance are the same simple counts and percentages that have been used since the men's professional tour began more than 30 years ago. Few sophisticiated takes on tennis performance exist, and those that do have been so poorly designed that they have been the [subject of ridicule](http://www.slate.com/articles/podcasts/hang_up_and_listen/2015/02/super_bowl_49_hang_up_and_listen_on_pete_carroll_s_play_call_and_the_game.html) of sports journalists. 
 
-If you like the stories you find here, follow the site's twitter account ...
+Tennis is in need of analytics revolution. _On the t_ was created in response to that need. The mission of _On the t_ is to use data, visualizations, and statistics to gain insight into and celebrate the sport of tennis.
+
+---
+
+
