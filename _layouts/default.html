@@ -8,9 +8,10 @@
 
     <div class="container content">
       <div class="masthead">
-        <h3 class="masthead-title">
+        <div style="text-align: left;"><img src="/assets/logo.png" height="120"></div>
+        <h3 class="masthead-title col-md-8">
           <a href="/" title="Home">{{ site.title }}</a>
-          <img src="/assets/logo.png">
+
 
           {% for page in site.pages_list %}
               &nbsp;&nbsp;&nbsp;<small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
