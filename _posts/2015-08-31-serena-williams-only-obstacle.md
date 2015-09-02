@@ -22,8 +22,8 @@ This is the puzzle that is Serena Williams.
 We may never know the true cause of Williams' crisis of confidence this season (some gratuitous speculation: elbow injury? loss of Sascha? cold feet on the eve of her coronation?) But, with a little number crunching, we might be able to gain some insight about whether—given her immunity to loss—this crisis has had any measurable affect on her game? 
 
 <div>
-    <a href="https://plot.ly/~on-the-t/181/" target="_blank" title="Figure 1. Timeline of Serena Williams&#39; Match Wins, 2014 - 2015 (pre US Open)" style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/181.png" alt="Figure 1. Timeline of Serena Williams&#39; Match Wins, 2014 - 2015 (pre US Open)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="on-the-t:181"  src="https://plot.ly/embed.js" async></script>
+    <a href="https://plot.ly/~on-the-t/201/" target="_blank" title="Figure 1. Timeline of Serena Williams&#39; Match Wins, 2014 - 2015 (pre US Open)" style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/201.png" alt="Figure 1. Timeline of Serena Williams&#39; Match Wins, 2014 - 2015 (pre US Open)" style="max-width: 100%;width: 792px;"  width="792" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="on-the-t:201"  src="https://plot.ly/embed.js" async></script>
 </div>
 
 
@@ -33,10 +33,9 @@ We can look, for example, at how her performance this season compares to where s
 If Williams' win record this season doesn’t justify the ups and downs in her belief, is there another statistic that does? Yes, three-setters. 
 
 <div>
-    <a href="https://plot.ly/~on-the-t/201/" target="_blank" title="Figure 1. Timeline of Serena Williams&#39; Match Wins, 2014 - 2015 (pre US Open)" style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/201.png" alt="Figure 1. Timeline of Serena Williams&#39; Match Wins, 2014 - 2015 (pre US Open)" style="max-width: 100%;width: 792px;"  width="792" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="on-the-t:201"  src="https://plot.ly/embed.js" async></script>
+    <a href="https://plot.ly/~on-the-t/203/" target="_blank" title="Figure 2. Timeline of Serena Williams&#39; 3-Set Matches, 2014 - 2015 (pre US Open)" style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/203.png" alt="Figure 2. Timeline of Serena Williams&#39; 3-Set Matches, 2014 - 2015 (pre US Open)" style="max-width: 100%;width: 750px;"  width="750" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="on-the-t:203"  src="https://plot.ly/embed.js" async></script>
 </div>
-
 
 
 A win by any name is a win, but some come more easily than others. In 2014 by her 47th match, Williams went to 3 sets in 8 matches and won 5 of them (Figure 2). In 2015, she has played 16 three-setters and won all but 1, which means twice as many occasions of being down in a match but winning when her back is against the wall 50% more often than last season. In other words, it isn’t that the ladies’ field has put more pressure on Williams by raising their game rather that Williams is able to win with near certainty even when she isn’t playing her best. 
@@ -57,12 +56,14 @@ This year’s US Open will be a real test of Williams' nerves. It isn't only a c
 </div>
 
 
+
 In terms of wins, Graf entered the French Open with 36 matches and 9 losses, slightly worse than her record of 28-8 after her 36th match in 1998 (Figure 3). 
 
 <div>
     <a href="https://plot.ly/~on-the-t/207/" target="_blank" title="Figure 4. Timeline of Steffi Graf&#39;s 3-Set Matches, 1998 - 1999 (pre French Open)" style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/207.png" alt="Figure 4. Timeline of Steffi Graf&#39;s 3-Set Matches, 1998 - 1999 (pre French Open)" style="max-width: 100%;width: 750px;"  width="750" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="on-the-t:207"  src="https://plot.ly/embed.js" async></script>
 </div>
+
 
 
 Despite the similarity in her win record in each year, Graf had to fight back from a set down for more of her 1999 wins than she did the year before. By her 36th match in 1998, Graf had played 8 three-setters and won half of them (Figure 4). Going into the French Open in 1999, she had played 15 three-setters and won 10 of them, a dramatic pattern of increasing three-set matches and three-set victories that is stunningly similar to Williams'. 
