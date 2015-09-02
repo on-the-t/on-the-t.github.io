@@ -22,10 +22,9 @@ This is the puzzle that is Serena Williams.
 We may never know the true cause of Williams' crisis of confidence this season (some gratuitous speculation: elbow injury? loss of Sascha? cold feet on the eve of her coronation?) But, with a little number crunching, we might be able to gain some insight about whether—given her immunity to loss—this crisis has had any measurable affect on her game? 
 
 <div>
-    <a href="https://plot.ly/~on-the-t/201/" target="_blank" title="Figure 1. Timeline of Serena Williams&#39; Match Wins, 2014 - 2015 (pre US Open)" style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/201.png" alt="Figure 1. Timeline of Serena Williams&#39; Match Wins, 2014 - 2015 (pre US Open)" style="max-width: 100%;width: 792px;"  width="792" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <a href="https://plot.ly/~on-the-t/201/" target="_blank" title="Figure 1. Timeline of Serena Williams&#39; Match Wins, 2014 - 2015 (pre US Open)" style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/201.png" alt="Figure 1. Timeline of Serena Williams&#39; Match Wins, 2014 - 2015 (pre US Open)" style="max-width: 100%;width: 750px;"  width="750" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="on-the-t:201"  src="https://plot.ly/embed.js" async></script>
 </div>
-
 
 
 We can look, for example, at how her performance this season compares to where she was at this stage in 2014 when her self-confidence was more steady. Before the US Open got underway today, Williams had completed 47 matches in 2015 (excluding Fed Cup, retirements and walkovers) and won 45 of those matches (Figure 1). By this point in 2014, Williams had lost 6 matches: a stellar record but still short of her level of dominance this year.  
