@@ -1075,7 +1075,7 @@ callbacks.shift()();
   style="width: 800; height: 500;">
 </div>
 
-With the exit of 2 of 3 remaining teens (18 year-olds Belinda Bencic and Daria Kasatkina) on Day 5 of the US Open, only 19 year-old Anett Kontaveit will have a chance to breakthrough and turn the trends back in favor of the youngsters. To do so she would have to beat the seasoned thirty-something Williams' sisters back-to-back. Unlikely to happen. But, if she could pull it off, it would be a performance for the ages.
+With the exit of 2 of 3 remaining teens (18 year-olds Belinda Bencic and Daria Kasatkina) on Day 5 of the US Open, only 19 year-old Anett Kontaveit will have a chance to breakthrough and turn the trends back in favor of the youngsters. To do so she would, in all probability, have to beat the seasoned thirty-something Williams' sisters back-to-back. Unlikely to happen. But, if she could pull it off, it would be a performance for the ages.
 
 ---
 

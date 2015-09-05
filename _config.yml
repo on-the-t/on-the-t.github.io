@@ -9,7 +9,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            On the T
+#title:            On the T
 tagline:          'Tennis + Data + Statistics'
 url:              http://on-the-t.com
 shorturl:         on-the-t.com
