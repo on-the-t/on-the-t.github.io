@@ -6,9 +6,9 @@ comments: false
 
 At the 2015 US Open, IBM is continuing its long partnership with the USTA to bring tennis fans "[more than the score](http://www.usopen.org/en_US/ibmsports/index.html)". One of the main ways that Big Blue is going beyond the score is with their _Keys to the Match_--basically, a dashboard with performance targets for a given head-to-head. 
 
-If you are like me and have ever perused the Keys on a changeover over player bathroom break, you might have wondered exactly _what_ insights they contain. But the company that built Deep Blue and Watson must certainly know what they are doing when it comes to tennis analytics, right? There ads are an equation for goodness sakes ("IBM + Tennis Data = More than the Score").
+If you are like me and have ever perused the Keys on a changeover over player bathroom break, you might have wondered exactly _what_ insights they contain. But the company that built Deep Blue and Watson must certainly know what they are doing when it comes to tennis analytics, right? Their ads are an equation for goodness sakes ("IBM + Tennis Data = More than the Score").
 
-As luck would have it, when seeking shelter during the rain delay of the Halep-Azarenka quarterfinal yesterday, I found myself under the canopy of IBM's booth at Flushing Meadows next to a smiling company rep. At least, I assume he was a rep; he wore a blue shirt and offered to answer some of my questions about the company's _Keys_, in any case. Here is a summary of what I learned...
+As luck would have it, when seeking shelter during the rain delay of the Halep-Azarenka quarterfinal yesterday, I found myself under the canopy of IBM's booth at Flushing Meadows next to a smiling company rep. (At least, I assume he was a rep; he wore a blue shirt and offered to answer some of my questions about the company's _Keys_, in any case.) Here is a summary of our conversation and what I learned...
 
 ---
 
