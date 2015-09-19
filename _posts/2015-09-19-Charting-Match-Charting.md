@@ -49,7 +49,7 @@ The lack of a census of matches might be okay for some purposes if the sample we
 </div>
 
 
-The heatmap in Figure 4 is largely erratic with respect to tier. The percentage of matches at Grand Slams has generally been less than the Masters 1000, with the exception of the Australian Open in 2014. However, this could be owing to the fact that more matches are played at the Slams than Masters and you simply need more manpower to keep up. Among the Masters, there is some suggestion that clay court tournaments are currently over-represented compared to the actual number they make up in the 1000 series. 
+The heatmap in Figure 4 shows the percentage of actual matches covered by tier. The suggested pattern is mostly erratic with respect to tournament level. The percentage of matches at Grand Slams has generally been less than the Masters 1000, with the exception of the Australian Open in 2014. However, this could be owing to the fact that more matches are played at the Slams than Masters and you simply need more manpower to keep up. Among the Masters, there is some suggestion that clay court tournaments are currently over-represented compared to the actual number they make up in the 1000 series. 
 
 _What does this all mean for tennis researchers?_ The main takeaway is that the _Match Charting Project_ is still growing and the current coverage is limited. There is no obvious pattern of selection bias with respect to tier, which is a reassurance, but only begins to scratch the surface of potential causes of match selection. In the meantime, researchers will have to be careful to evaluate whether their particular use of these data depends on having a representative sample of matches.
 
