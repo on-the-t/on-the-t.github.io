@@ -57,6 +57,8 @@ The metadata on the project still needs a crowd to get behind it, where 1000s of
 
 Readers interested in contributing to the _Match Charting Project_ can get started [here](http://www.tennisabstract.com/blog/2013/12/02/match-charting-project-update-tutorial-tracking-tools/). 
 
+Addendum: I did want to note that one tool for helping to get a crowd-sourcing solution to charting is an [Android app](https://play.google.com/store/apps/details?id=com.inklily.tennischarting&hl=en) made by Ink Lily.
+
 ---
 
 {% include twitter_plug.html %}
