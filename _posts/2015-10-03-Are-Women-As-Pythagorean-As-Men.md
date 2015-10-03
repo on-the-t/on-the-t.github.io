@@ -27,7 +27,7 @@ Figure 1 shows the exponents for each performance measure based on 2010 - 2015 m
 
 $$
 Win\% = 1105^4.75/(1105^4.75 + 949^4.75)\; x\; 100 = 67\%
-$$ H
+$$
 
 Her actual win percentage out of the 45 matches included in the analysis was 64%.
 
