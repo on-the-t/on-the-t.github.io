@@ -45,7 +45,7 @@ Figure 2 shows that breakpoints won is the strongest predictor of win percentage
 One of the most valuable uses of Pythagorean expectation in baseball is for win projection because it outperforms projections based on win-loss record. I showed that this was also true for the $BP^2$ model for men's tennis. Figure 3 compares mid-season win projections using the $BP^2$ Pythagorean model against a regression model with the most predictive of the 14 performance measures, the same model with player-opponent relative tour rankings, and win-loss record. Looking at the panel on the far right for win-loss, we see a large scatter of points for win-loss projections, indicating that a player's mid-season match wins could vary widely from where they were at the end of the year. In fact, the error for win-loss in a 50-match season was more than 1 match greater than the error based on $BP^2$&mdash; an error rate that was nearly identical to the performance of the multivariate models.
 
 <figure style="float:left;">
-  <figcaption>Figure 3. Performance of mid-season win projections of $BP^2$ models for WTA against 3 alternatives</figcaption>
+  <figcaption>Figure 3. Performance of mid-season win projections of $BP^2$ model for WTA against 3 alternatives</figcaption>
   <img src="/assets/wta-pythag-projection.png"/>
 </figure>
 
