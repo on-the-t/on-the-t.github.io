@@ -35,7 +35,7 @@ In the $BP^2$ model for the men's tour, the best-fitting exponent was 1.83, very
 
 > _But how accurately do these models predict win percentage?_
 
-Figure 2 shows that breakpoints won is the strongest predictor of win percentage, explaining 83% of variance with an error of $\pm4$ matches in a 50-match season. This is very similar to the results for the men's tour. Interestingly, unlike the findings for the men, the second best predictor is first serve points won (rather than breakpoint opportunities), suggesting that greater relative dominance on serve is a greater factor in win outcomes for the women's tour than the men's tour. This is consistent with the observation that more breaks of serve occur on the women's tour.
+Figure 2 shows that breakpoints won is the strongest predictor of win percentage, explaining 83% of variance with an error of $\pm4$ matches in a 50-match season. This is very similar to the results for the men's tour. Interestingly, unlike the findings for the men, the second best predictor is total serve points won (rather than breakpoint opportunities), suggesting that greater relative dominance on serve is a greater factor in win outcomes for the women's tour than the men's tour. This is consistent with the observation that more breaks of serve occur on the women's tour.
 
 <figure style="float:left;">
   <figcaption>Figure 2. Pythagorean models of 14 tennis performance measures for the WTA, 2010 - 2015</figcaption>
