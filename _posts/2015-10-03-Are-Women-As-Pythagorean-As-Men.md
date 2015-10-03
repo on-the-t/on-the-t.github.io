@@ -49,7 +49,7 @@ One of the most valuable uses of Pythagorean expectation in baseball is for win 
   <img src="/assets/wta-pythag-projection.png"/>
 </figure>
 
-Thus, despite a number of difference in the structure and style of play between the men's and women's game, the Pythagorean relationship between breakpoints and win percentage holds up for both tours. There is even some evidence in the findings presented here to indicate that the $BP^2$ model outperforms win-loss record even better for the women's gam than the men's. For both tours, $BP^2$ promises to be a simple and useful tool for accurately evaluating player strength. 
+Thus, despite a number of difference in the structure and style of play between the men's and women's game, the Pythagorean relationship between breakpoints and win percentage holds up for both tours. There is even some evidence in the findings presented here to indicate that the $BP^2$ model outperforms win-loss record even better for the women's game than the men's. For both tours, $BP^2$ promises to be a simple and useful tool for accurately evaluating player strength. 
 
 ---
 
