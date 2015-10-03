@@ -23,7 +23,13 @@ For example, if we consider the Pythagorean model for points won on first serve 
   <img src="/assets/exponent-wta.png"/>
 </figure>
 
-Figure 1 shows the exponents for each performance measure based on 2010 - 2015 match win outcomes for the WTA. First serve won had an estimate of $\alpha = 4.75$. So, going back to the example above, the estimate for 2010 season wins for Na based on points won on first serve was $Win\% = 1105^4.75/(1105^4.75 + 949^4.75) x 100 = 67\%$. Her actual win percentage out of the 45 matches included in the analysis was 64%.
+Figure 1 shows the exponents for each performance measure based on 2010 - 2015 match win outcomes for the WTA. First serve won had an estimate of $\alpha = 4.75$. So, going back to the example above, the estimate for 2010 season wins for Na based on points won on first serve was 
+
+$$
+Win\% = 1105^4.75/(1105^4.75 + 949^4.75)\; x\; 100 = 67\%
+$$ H
+
+Her actual win percentage out of the 45 matches included in the analysis was 64%.
 
 In the $BP^2$ model for the men's tour, the best-fitting exponent was 1.83, very close to the Pythagorean exponent of 2. For the WTA, the breakpoint model's best-fitting coefficient is 2.28, also close to a Pythagorean relationship but in the opposite direction as the men's tour. This suggests that an equal improvement in breakpoint conversion over opponents on the women's tour is associated with a greater increase in win percentage than for the men&mdash; suggesting that relative breakpoint strength has a somewhat stronger relationship to win outcomes than men. 
 
