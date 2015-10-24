@@ -1,16 +1,16 @@
 ---
 layout: post
-title: How Decisive are Breakpoints?
+title: How Decisive are Break Points?
 comments: true
 ---
 
-As part of the work I have been doing on the [Pythagorean model](http://on-the-t.com/2015/09/26/Converting-Clutch-Into-Wins/) for wins in tennis, I have&mdash;in-between MLB playoffs and the Shanghai Masters, in any case&mdash;been thinking a lot about breakpoints lately.
+As part of the work I have been doing on the [Pythagorean model](http://on-the-t.com/2015/09/26/Converting-Clutch-Into-Wins/) for wins in tennis, I have&mdash;in-between MLB playoffs and the Shanghai Masters, in any case&mdash;been thinking a lot about break points lately.
 
-We all know breakpoints are important. If a player doesn't edge out his or her opponent's breakpoints won in a set, the set (and ultimately the match) will have to be decided in a tiebreak or, when a tiebreak isn't in place, a match could go on _ad infinitum_ as some of us thought might happen when big servers [Isner and Mahut butted heads](https://en.wikipedia.org/wiki/Isner%E2%80%93Mahut_match_at_the_2010_Wimbledon_Championships) in the 2010 Wimbledon first round. 
+We all know break points are important. If a player doesn't edge out his or her opponent's break points won in a set, the set (and ultimately the match) will have to be decided in a tiebreak or, when a tiebreak isn't in place, a match could go on _ad infinitum_ as some of us thought might happen when big servers [Isner and Mahut butted heads](https://en.wikipedia.org/wiki/Isner%E2%80%93Mahut_match_at_the_2010_Wimbledon_Championships) in the 2010 Wimbledon first round. 
 
-So how _decisive_ are breakpoints for winning in the current game? I suspect most of us (as was true for me when the question first occurred to me) don't know the answer to this question. How odd not to be more familiar with such a fundamental aspect of the game! Another blindspot we can chalk up to tennis stats being stuck in their old ways. Fortunately, a little number-crunching can go far.
+So how _decisive_ are break points for winning in the current game? I suspect most of us (as was true for me when the question first occurred to me) don't know the answer to this question. How odd not to be more familiar with such a fundamental aspect of the game! Another blindspot we can chalk up to tennis stats being stuck in their old ways. Fortunately, a little number-crunching can go far.
 
-One measure of the _decisiveness_ of breakpoints is to look at the frequency with which the player who wins a match is also the player who won more breakpoints. Note that this is an imperfect measure because a match winner doesn't have to win every set and, thus, always edge out the opponent on breakpoint conversion, but it is a good preliminary approximation. 
+One measure of the _decisiveness_ of break points is to look at the frequency with which the player who wins a match is also the player who won more break points. Note that this is an imperfect measure because a match winner doesn't have to win every set and, thus, always edge out the opponent on break point conversion, but it is a good preliminary approximation. 
 
 <script type="text/javascript">
  
@@ -58,8 +58,8 @@ options["allowHtml"] = true;
 options["width"] =    800;
 options["height"] =    800;
 options["legend"] = "none";
-options["title"] = "Figure 1. Percentage of ATP Matches where Winner Won More Breakpoints, 2011 - 2015";
-options["hAxis"] = {title: 'Percentage of Matches Won on Breakpoints', baseline: 0};
+options["title"] = "Figure 1. Percentage of ATP Matches where Winner Won More Break Points, 2011 - 2015";
+options["hAxis"] = {title: 'Percentage of Matches Won on Break Points', baseline: 0};
 
 
     var chart = new google.visualization.BarChart(
@@ -121,9 +121,9 @@ callbacks.shift()();
   style="width: 800; height: 800;">
 </div>
 
-Figure 1 suggests that 87-88% of wins in best of 3 matches are determined by breakpoint conversion. At the Grand Slams, where men play a best of 5 and there is no tiebreak in the fifth for all but the US Open, the decisiveness of breakpoints is closer to 91%. This tells us that matches are infrequently decided by tiebreaks and matches like Jo-Wilfried Tsonga's upset of Rafael Nadal in this week's semifinal of the Shanghai Masters, despite having [fewer breakpoints won](http://www.atpworldtour.com/en/tournaments/shanghai-rolex-masters/5014/2015/match-stats/T786/N409/live/MS003/match-stats), are rare. 
+Figure 1 suggests that 87-88% of wins in best of 3 matches are determined by break point conversion. At the Grand Slams, where men play a best of 5 and there is no tiebreak in the fifth for all but the US Open, the decisiveness of break points is closer to 91%. This tells us that matches are infrequently decided by tiebreaks and matches like Jo-Wilfried Tsonga's upset of Rafael Nadal in this week's semifinal of the Shanghai Masters, despite having [fewer break points won](http://www.atpworldtour.com/en/tournaments/shanghai-rolex-masters/5014/2015/match-stats/T786/N409/live/MS003/match-stats), are rare. 
 
-Are breakpoints more important for some surfaces than others? Figure 2 addresses this question by looking at the differences in the frequency of matches won by the player with the greater number of breakpoints won. The differences are small, but we do see a statistically significant pattern that suggests that breakpoints are more important on slower surfaces that faster surfaces (90% for clay, 88% for hard court, and 87.5% for grass).
+Are break points more important for some surfaces than others? Figure 2 addresses this question by looking at the differences in the frequency of matches won by the player with the greater number of break points won. The differences are small, but we do see a statistically significant pattern that suggests that break points are more important on slower surfaces that faster surfaces (90% for clay, 88% for hard court, and 87.5% for grass).
 
 <script type="text/javascript">
  
@@ -171,8 +171,8 @@ options["allowHtml"] = true;
 options["width"] =    800;
 options["height"] =    800;
 options["legend"] = "none";
-options["title"] = "Figure 2. Surface Differences in Percentage of ATP Matches where Winner Won More Breakpoints, 2011 - 2015";
-options["hAxis"] = {title: 'Percentage of Matches Won on Breakpoints', baseline: 0};
+options["title"] = "Figure 2. Surface Differences in Percentage of ATP Matches where Winner Won More Break Points, 2011 - 2015";
+options["hAxis"] = {title: 'Percentage of Matches Won on Break Points', baseline: 0};
 
 
     var chart = new google.visualization.BarChart(
@@ -234,9 +234,9 @@ callbacks.shift()();
   style="width: 800; height: 800;">
 </div>
 
-Player differences account for more variation in breakpoint decisiveness than tournament level or surface. Figure 3 gives some idea of this by showing the 20 players who have played 50 or more ATP matches in the past 5 years for whom breakpoints were the most decisive and least decisive for determining match wins. As expected, breakpoints are the least important for wins for big serves, with big guns like John Isner and Ivo Karlovic being the 2nd and 3rd with the lowest breakpoint advantage in matches they have won. At the same time, there are surprises in this group like Gilles Muller and Ryan Harrison. 
+Player differences account for more variation in break point decisiveness than tournament level or surface. Figure 3 gives some idea of this by showing the 20 players who have played 50 or more ATP matches in the past 5 years for whom break points were the most decisive and least decisive for determining match wins. As expected, break points are the least important for wins for big serves, with big guns like John Isner and Ivo Karlovic being the 2nd and 3rd with the lowest break point advantage in matches they have won. At the same time, there are surprises in this group like Gilles Muller and Ryan Harrison. 
 
-Out of all players on tour, Novak Djokovic is the player for whom breakpoints have been most decisive for wins. There does seem to be some correlation with rank as more of the highest-ranked players are in this group. However, it is interesting to see deviations from this trend, like the fairly low rank of Roger Federer and Kei Nishikori in the top 20. These surprises could be a combination of clutch performance and surface-specific dominance (that is, greater dominance on clay court would favor more breakpoint decisiveness; grass less so).
+Out of all players on tour, Novak Djokovic is the player for whom break points have been most decisive for wins. There does seem to be some correlation with rank as more of the highest-ranked players are in this group. However, it is interesting to see deviations from this trend, like the fairly low rank of Roger Federer and Kei Nishikori in the top 20. These surprises could be a combination of clutch performance and surface-specific dominance (that is, greater dominance on clay court would favor more break point decisiveness; grass less so).
 
 <script type="text/javascript">
  
@@ -463,8 +463,8 @@ options["width"] =    800;
 options["height"] =   1000;
 options["series"] = [{color: 'green'}];
 options["legend"] = "none";
-options["title"] = "Figure 3. Top 20 Players for Whom Breakpoints are Least and Most Decisive, 2011 - 2015";
-options["hAxis"] = {title: 'Percentage of Matches Won on Breakpoints'};
+options["title"] = "Figure 3. Top 20 Players for Whom Break Points are Least and Most Decisive, 2011 - 2015";
+options["hAxis"] = {title: 'Percentage of Matches Won on Break Points'};
 
 
     var chart = new google.visualization.BarChart(
@@ -526,6 +526,6 @@ callbacks.shift()();
   style="width: 800; height: 1000;">
 </div>
 
-Stay tuned for next week when I'll take a look at breakpoint decisiveness on the women's tour.
+Stay tuned for next week when I'll take a look at break point decisiveness on the women's tour.
 
 {% include twitter_plug.html %}
