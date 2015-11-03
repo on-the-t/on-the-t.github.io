@@ -28,7 +28,7 @@ As luck would have it, I recently became acquainted with Edoardo (Edo) Salvati, 
 
 <b>Q1.  How did you get interested in tennis?</b>
 
-_When I was growing up, I was looking for a sport that could provide a more intimate and less brutal experience than football (both by playing it and watching on TV), which is something of a religion in Italy. Tennis&mdash;with its fair play, calm and sportsmanship&mdash;was a natural antidote. My first vivid memory is Stefan Edberg’s Wimbledon semifinal loss to Michael Stich in 1991, when he lost the match without dropping serve. Also, my first taste of a statistical oddity in sport. I remember watching my first matches, like the 1992 US Open final, on a black and white TV my family owned that had terrible reception. When I was still enthralled despite the fluttering lines of grey caused by the bad signal, I knew I was hooked!_
+_When I was growing up, I was looking for a sport that could provide a more relatable and less brutal experience than football (both by playing it and watching on TV), which is something of a religion in Italy. Tennis&mdash;with its fair play, calm and sportsmanship&mdash;was a natural antidote. My first vivid memory is Stefan Edberg’s Wimbledon semifinal loss to Michael Stich in 1991, when he lost the match without dropping serve. Also, my first taste of a statistical oddity in sport. I remember watching my first matches, like the 1992 US Open final, on a black and white TV my family owned that had terrible reception. When I was still enthralled despite the fluttering lines of grey caused by the bad signal, I knew I was hooked!_
 
 <b>Q2.  What is your current involvement with the sport? Are you a player, fan, commentator, or would you describe your relationship to the sport in some other way?</b>
 
@@ -67,9 +67,9 @@ _I have never scored before or been involved in a similar project. The MCP is on
 
 <b>Q10. How did you learn to chart?</b>
 
-_It has been a learning process. I downloaded the spreadsheet, carefully read the instruction worksheet and dove right in. My first match was the 2015 Monte Carlo Masters semifinal between Djokovic and Nadal. Obviously, there were a lot of shots and it took a very long to chart. Also, charting is more complicated for left-hand players  I had to alternate between typing, pressing the pause button on the remote control and flipping through the instructions to be sure my coding was correct. Sometimes I had to do this multiple times for one point. There were times I would have to start over, especially in long rallies, because I had made a mistake or missed a shot. The process is the same today, but now I have the coding system memorized so I can chart much faster. It is like learning a language: the more you practice, the more fluency you possess. It can be frustrating at first but it becomes more and more rewarding overtime._
+_It has been a learning process. I downloaded the spreadsheet, carefully read the instruction worksheet and dove right in. My first match was the 2015 Monte Carlo Masters semifinal between Djokovic and Nadal. Obviously, there were a lot of shots and it took a very long to chart. Also, charting is more complicated for left-hand players  I had to alternate between typing, pressing the pause button on the remote control and flipping through the instructions to be sure my coding was correct. Sometimes I had to do this multiple times for one point. There were times I would have to start over, especially in long rallies, because I had made a mistake or missed a shot. The process is the same today, but now I have the coding system memorized so I can chart much faster. It is like learning a language: the more you practice, the greater your fluency. It can be frustrating at first but it becomes more and more rewarding overtime._
 
-> It is like learning a language: the more you practice, the more fluency you possess.
+> It is like learning a language: the more you practice, the greater your fluency.
 
 <b>Q11. How do you decide which matches to chart?</b>
 
