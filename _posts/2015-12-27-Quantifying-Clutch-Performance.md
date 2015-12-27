@@ -7,7 +7,7 @@ comments: true
 Just as some people are unusually good at finding the perfect gift to put under the Christmas tree, some tennis players are unusually good at pulling out a win when it matters most. This is the quintessential characteristic of the "clutch player". 
 
 <div style="float:right;padding:2%;width:400px;height:250px;">
-<a href="https://twitter.com/Tennis/status/680863246937620480/photo/1?ref_src=twsrc%5Etfw"><img src="/assets/shot_heard_round_world.png" width="90%" height="85%"/></a><p style="font-size:10px;">Novak Djokovic's shocking service return winner facing a match point at the US Open Final in 2011</p></div>
+<a href="https://twitter.com/Tennis/status/680863246937620480/photo/1?ref_src=twsrc%5Etfw"><img src="/assets/shot_heard_round_world.png" width="90%" height="60%"/></a><p style="font-size:11px;">Novak Djokovic's shocking service return winner facing a match point at the US Open Final in 2011</p></div>
 
 The idea of the clutch player is easy to describe, and some notion of clutch performance exists in every sport. Actually measuring clutch ability is much more challenging. And, in tennis, when one starts to consider how this could be done, one quickly discoveries that, despite how frequently the concept of clutch is discussed and applied with authority, it is rather vague. 
 
