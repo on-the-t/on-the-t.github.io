@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Klaassen & Magnus's 22 Myths of Tennis&mdash; Myth 2
+title: Myth 2 of Klaassen & Magnus's 22 Myths of Tennis
 comments: true
 ---
 
