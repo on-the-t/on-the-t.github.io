@@ -1,9 +1,12 @@
+lsi: false
+safe: true
+
 # Dependencies
 markdown:         redcarpet
 redcarpet:
   extensions: ["tables"]
 
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
