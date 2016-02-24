@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Myth 2 of Klaassen & Magnus's 22 Myths of Tennis
+title: Klaassen & Magnus's 22 Myths of Tennis&mdash; Myth 2
 comments: true
 ---
 
 
 The second myth addressed in Klaassen and Magnus's instant classic of tennis analysis, [Analyzing Wimbledon](https://global.oup.com/academic/product/analyzing-wimbledon-9780199355952?cc=us&lang=en&#), is the myth of serving first in a match.
 
-<img src="http://ichef.bbci.co.uk/news/660/media/images/55419000/jpg/_55419604_cointoss.jpg" style="float:right;" width=400 height=200 />
+<img src="/assets/cointoss.jpg" style="float:right;padding:2%;" width="400" height="200" />
+
 
 ## Myth 2: "Is there an advantage to serve first in a set?"
 
