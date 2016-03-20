@@ -5,7 +5,7 @@ comments: true
 ---
 
 
-The next myth in our look back at Klaasen and Magnus's takedown of 22 tennis myths is Myth 3. This myth concerns the importance of points and whether each point is equally important to the server and returner.
+The next myth in our look back at Klaassen and Magnus's takedown of 22 tennis myths is Myth 3. This myth concerns the importance of points and whether each point is equally important to the server and returner.
 
 
 
