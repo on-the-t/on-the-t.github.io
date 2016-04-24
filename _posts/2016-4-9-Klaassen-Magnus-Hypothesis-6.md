@@ -37,7 +37,6 @@ When we look at the same comparisons for the second serve percentage, we find qu
 
 Serve control, especially on second serves, looks like a whole new game compared to the early 1990s. While levels of control have risen, differences between tours have also increased. Since so many factors influence the simple "in" or "out" statistic--including racket technology, serve types (sliders, kicks, etc.), risk-taking, etc.--it is hard to explain the cause of these differences. But these analyses do at least confirm that when it comes to questions over gender and tennis it is usually safe to say "it's complicated". 
 
-A [recent paper](http://www.tandfonline.com/doi/abs/10.1080/02640414.2016.1139161) from the Game Insight Group at Tennis Australia, did a more in-depth comparison of serve and groundstroke characteristics between male and female players based on Hawk-Eye data from the 2012-2014 Australian Open. That analysis showed similar differences as those reported here but also many similarities in other aspects of play. Hopefully, as more research with ball and player trajectory data is undertaken, we will not only be able to measure gender differences in how elite tennis is played with greater detail but also start to understand the causes of these differences.
 
 
 {% include twitter_plug.html %}
