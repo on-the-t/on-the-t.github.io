@@ -81,7 +81,7 @@ The pattern for WTA players in terms of points played is similar to what was obs
 
 ## Summary
 
-The re-analysis of ball age effects suggests that a ball's point age might be a more accurate way of assessing how worn out a ball is, when considering its impact on serve performance. But whether game age or point age, we find effects to support an advantage of new balls for servers, especially in the frequency of aces.
+The re-analysis of ball age effects suggests that a ball's point age might be a more accurate way of assessing how worn out a ball is, when considering its impact on serve performance. But whether game age or point age, we find effects do support an advantage of new balls for servers, especially in the frequency of aces.
 
 Are the effects big enough to influence the outcome of a match? Let's consider Federer. The estimated effect of a ball's point age for the World No. 3 corresponded to a decline in his serve win probability of 1/2 a percentage point for every 50 points played with the same balls. In other words, it would take a pretty old tennis ball to have a meaningful influence on Federer's game. 
 
