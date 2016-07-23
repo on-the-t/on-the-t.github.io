@@ -74,8 +74,8 @@ When we look at the age in terms of points played, we see more of an advantage o
 The pattern for WTA players in terms of points played is similar to what was observed when game age was used (Figure 6). In each case, we see that most players get some advantage from newer balls and that advantage tends to increase with the player's ability.
 
 <div>
-    <a href="https://plot.ly/~on-the-t/847/" target="_blank" title=", , " style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/847.png" alt=", , " style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="on-the-t:847"  src="https://plot.ly/embed.js" async></script>
+    <a href="https://plot.ly/~on-the-t/866/" target="_blank" title=", , " style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/866.png" alt=", , " style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="on-the-t:866"  src="https://plot.ly/embed.js" async></script>
 </div>
 
 
