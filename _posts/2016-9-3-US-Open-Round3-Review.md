@@ -56,7 +56,7 @@ But even with one set each, Keys was the heavy favorite to win the last set. Key
 </div>
 
 
-<b><u>Keys' Escapes</u></b>
+<b><u>Tsurenko Triumphs</u></b>
 
 The biggest win of the day for the women had to go to Lesia Tsurenko. Ranked 99 in the world, Tsurenko's chances of defeating World No. 13 Dominika Cibulkova. Those chances looked even more bleak when Cibulkova won three breaks and took the first set. At that stage, Tsurenko had to fight against a 15% win chance to take the match back. Both players struggled on serve in the second and all but one service game saw a break of service. By managing to hold that one game Tsurenko made the set score even and increased her win probability to 35%. 
 
