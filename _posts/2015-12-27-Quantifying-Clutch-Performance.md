@@ -314,6 +314,7 @@ data.addRows(datajson);
 return(data);
 }
  
+
 // jsDrawChart
 function drawChartBarChartID5f1d5c10a246() {
 var data = gvisDataBarChartID5f1d5c10a246();
@@ -321,11 +322,11 @@ var options = {};
 options["allowHtml"] = true;
 options["height"] =   1000;
 options["width"] =    600;
-options["chartArea"] = {left: 200, right: 500};
-options["legend"] = "top";
-options["hAxis"] = {title: 'IPM Above Average (per 100 Points)'};
+options["chartArea"] = {left: 200};
+options["legend.position"] = "none";
+options["hAxis"] = {title: 'IPM (per 100 Points)'};
 options["colors"] = ['#4CAF50', '#FFC107'];
-options["title"] = "Figure 2. Return and Serve Importance Plus Minus Above Average for Top 20 ATP Players in Overall IPM";
+options["title"] = "Figure 2. Return and Serve Importance Plus Minus Over Average for Top 20 ATP Players in Overall IPM";
 
 
     var chart = new google.visualization.BarChart(
