@@ -22,7 +22,7 @@ With just a 59% chance of winning the match, Caroline Wozniacki was the lowest p
 
 <b><u>Kerber Cruises</u></b>
 
-Taking on defending champion, Roberta Vinci, Angelique Kerber looked unbeatable. After a tough first set, in which the women had 7 breaks of service, Kerber played a second set that could even give Serena Williams reservations about a clash in the finals. In fact, after the first game of the second set, Kerber's chances of winning the match were at 95% and never wavered from there on out.   
+Taking on 2015 U.S. Open finalist Roberta Vinci, Angelique Kerber looked unbeatable. After a tough first set, in which the women had 7 breaks of service, Kerber played a second set that could even give Serena Williams reservations about a clash in the finals. In fact, after the first game of the second set, Kerber's chances of winning the match were at 95% and never wavered from there on out.   
 
 <div>
     <a href="https://plot.ly/~on-the-t/920/" target="_blank" title=", , , " style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/920.png" alt=", , , " style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
