@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Visualizations of Day 12 at the 2016 U.S. Open 
+title: Visualizations of Day 13 at the 2016 U.S. Open 
 comments: true
 ---
 
