@@ -25,13 +25,15 @@ When we look at the trends in line-hitting among WTA players, we see similar pat
 
 Unlike the men, fewer players are clustered between 15% and 20%. Instead, more players are within the 10% to 15% group. Surprisingly, Serena Williams, who is known for her big hitting, is toward the bottom of the group in terms of shots landing close to the line. Suggesting that she may take her time for big shots more than we appreciate. Others in this range of the rankings are more expected and known for a defensive style of play, like Aga Radwanska and Carla Suarez Navarro.Radwanska will face Angelique Kerber this weekend in the semifinal of the WTA Tour Finals. We can expect Kerber to slightly edge out Radwanska on the frequency of line-hitting shots. 
 
+After last week's post, reader Amir Bachar raised the question of ball type and whether men and women at the Australian Open use a different type that could explain any differences in shot characteristics. Ball type can definitely have an impact on ball pace and spin. From 2014 to 2016, the Australian Open has used a Wilson Type 2 ball (under the ITF classification scheme) and the same ball has been used for men's and women's events. 
+
 <div>
     <a href="https://plot.ly/~on-the-t/978/" target="_blank" title=" vs " style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/978.png" alt=" vs " style="max-width: 100%;width: 650px;"  width="650" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="on-the-t:978"  src="https://plot.ly/embed.js" async></script>
 </div>
 
-
 The major message from this review of accuracy stats is how infrequent line-hitting actually is when we think of all groundstroke shots and not just the shots that end a point. So the next time we see fans gasp and get out of their seats to cheer for a shot that just catches the line, we will know that they have truly seen something special.
+
 
 
 {% include twitter_plug.html %}
