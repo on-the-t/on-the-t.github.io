@@ -24,7 +24,7 @@ To help, I have added labels for a subset of the players, including top players 
 
 Even more interesting in the serve summary was the performance of Andy Murray. While Murray won 65% of service points overall, his performance on the biggest service points was only 50%! We would have to expect that he made up for that gap on the return. Let's have a look...
 
-Figure 2 does the same breakdown for return performance. As expected, Any Murray's performance is nearly the reverse as what we found on serve. At Flushing, he was one of the mutch clutch return performers of the tournament. 
+Figure 2 does the same breakdown for return performance. As expected, Any Murray's performance is nearly the reverse as what we found on serve. At Flushing, he was one of the match clutch return performers of the tournament. 
 
 And Murray wasn't alone in getting fired up on the biggest return situations. Kei Nishikori and Paolo Lorenzi&mdash;who both had impressive runs at the US hardcourt slam&mdash; and Stan Wawrinka, who took the title, were also unusually strong on the return game: going beyond their average return performance when it mattered most.
 
