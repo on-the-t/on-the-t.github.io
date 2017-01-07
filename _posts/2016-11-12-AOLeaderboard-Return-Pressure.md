@@ -20,20 +20,17 @@ On the men's side, we see several of the 8 competitors in the tour finals at the
 
 On the other end of the spectrum, Rafael Nadal is one of the players with the least return pressure among the group. This shouldn't be a surprise because Nadal is known to position himself far behind the baseline on most serves. More surprising is to see Gael Monfils, one of the players who will compete at the O2, at the bottom of the return pressure rankings. This could also be due to his positioning or suggest that an attacking stance is not as consistent for Monfils than other players. It will be interesting to look for those patterns in the coming days. 
 
-<div>
-    <a href="https://plot.ly/~on-the-t/984/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/984.png" alt="" style="max-width: 100%;width: 700px;"  width="700" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="on-the-t:984"  src="https://plot.ly/embed.js" async></script>
-</div>
+
+
+<iframe width="900" height="1200" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/984.embed"></iframe>
 
 
 For the WTA, return pressure appears to align much more closely with success on tour. Some of female players we see as taking away the most time from the server on the serve+1 shot include Petra Kvitova, Garbine Muguruza, and the Williams sisters. Other players who cluster toward the top are known for their aggressive style, like Victoria Azarenka and Madison Keys. Player on the rise, Karolina Pliskova, and gold medalist, Monica Puig, are also in the mix of players with return pressures of 0.43 seconds or less.
 
 Toward the bottom of the list are some of the counter-punching players like Caroline Wozniacki and Saisai Zheng. World No. 1 Angelique Kerber, despite a move to a more aggressive style of play, still remains on the defensive side according to the return pressure metric. We also see that attackers Naomi Osaka and Dasha Gavrilova might have room to assert more aggressiveness on the return. 
 
-<div>
-    <a href="https://plot.ly/~on-the-t/986/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/986.png" alt="" style="max-width: 100%;width: 700px;"  width="700" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="on-the-t:986"  src="https://plot.ly/embed.js" async></script>
-</div>
+
+<iframe width="900" height="1200" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/986.embed"></iframe>
 
 
 An intriguing observation when we contrast the men's and women's return pressure at the AO is that top women actually exert more pressure than the comparable top men. In other words, WTA returners tend to take away more time from the server's second shot than ATP returners. This could be due to the fact that WTA players tend to create less pressure on serve than male players, giving the returner greater ability to take a ball early and further inside the baseline. So, while the power and speed of the men's and women's games may not be equal, in some respects, the women have the upperhand.  

@@ -16,11 +16,7 @@ The first figure below shows the backhand speed characteristics for ATP players.
 
 Among the men, these data suggest that player averages on the pace of the backhand range from 75 to 60 mph. Much less than the speed of a first serve but still impressive when one considers that it is the shot that is the most difficult to generate power. 
 
-<div>
-    <a href="https://plot.ly/~on-the-t/975/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/975.png" alt="" style="max-width: 100%;width: 700px;"  width="700" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="on-the-t:975"  src="https://plot.ly/embed.js" async></script>
-</div>
-
+<iframe width="900" height="1500" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/975.embed"></iframe>
 
 We have often heard Stan Wawrinka described as the best one-handed backhand in the game. We find Wawrinka right at the top of average speeds, clocking in at 75 mph, which gives some justification to that claim. However, we also see that he has a massive lower tail on his serve, which could indicate a lack of consistency or greater use of spin on the backhand. Some others in the 74-75 mph group are Kei Nishikori, Fernando Verdasco and Lucas Pouille. 
 
@@ -31,10 +27,7 @@ When we turn to the WTA, we find median impact speeds that are in the same range
 
 We have to regret the retirement of Li Na when we see that she had the hardest-hitting backhand in recent AO history. American, Madison Keys, is also right up there in terms of power. Kvitova, Azarenka, and Muguruza also reach impressive speeds (median of 71 mph or more) on the backhand. Serena Williams, Venus Williams and Karolina Pliskova are in the 70 mph and below group, which could, again, reflect a tradeoff between big serving and ripping backhands.
 
-<div>
-    <a href="https://plot.ly/~on-the-t/972/" target="_blank" title=" vs " style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/972.png" alt=" vs " style="max-width: 100%;width: 700px;"  width="700" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="on-the-t:972"  src="https://plot.ly/embed.js" async></script>
-</div>
+<iframe width="900" height="1500" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/972.embed"></iframe>
 
 
 Speed is only one dimension of a shot and these rankings show us that the best players aren't necessarily the players that hit the hardest. Quality of a shot has to do with many factors: how close it comes to a line, how open the court is, and how much it takes the opponent by surprise. Although the pace of a shot can't tell us everything about a shot's quality, it does, I think, give us insight into a player's style. Players with a flatter and more attacking game should feature high on the pace charts, whereas the players with more variety, spin, or who wait for their opportunities should not. 

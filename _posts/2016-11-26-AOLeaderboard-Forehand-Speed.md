@@ -12,10 +12,8 @@ Most male players reach average speeds of 71 to 83 mph on the forehand (Figure 1
 
 Very little separates the speeds of deep forehands for Novak Djokovic, Rafael Nadal, and Grigor Dimitrov who all come in at 79 mph. World No 1, Andy Murray, was notably further behind at recent AOs coming in at a speed of 75 mph, which still puts his speeds ahead of Aussies Nick Kyrgios and Bernard Tomic.
 
-<div>
-    <a href="https://plot.ly/~on-the-t/1012/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/1012.png" alt="" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="on-the-t:1012"  src="https://plot.ly/embed.js" async></script>
-</div>
+
+<iframe width="900" height="1200" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1012.embed"></iframe>
 
 
 As was observed for backhand speeds in an [earlier post](http://on-the-t.com/2016/10/22/AOLeaderboard-Backhand-Speed/), the difference between typical men's and women's speeds on groundstrokes isn't large. Women also are hitting speeds of 70 - 79 mph on their forehand, though fewer of them are hitting speeds of 80 mph or higher frequently. One exception is American Madison Keys who, with an average forehand speed of 81 mph, could definitely compete with the men.
@@ -24,10 +22,9 @@ Some other big hitters on the women's tour include Sam Stosur, Sloane Stephens a
 
 Monica Niculescu lands at the bottom of the list with a speed of 53 mph. However, Niculescu only had 1 deep forehand stroke observed. As the only top player who favors a forehand slice, Niculescu chooses surprise over depth and speed. 
 
-<div>
-    <a href="https://plot.ly/~on-the-t/1014/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/1014.png" alt="" style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="on-the-t:1014"  src="https://plot.ly/embed.js" async></script>
-</div>
+
+<iframe width="900" height="1200" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1014.embed"></iframe>
+
 
 
 

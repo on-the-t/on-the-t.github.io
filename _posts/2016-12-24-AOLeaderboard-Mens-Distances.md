@@ -19,7 +19,7 @@ Interestingly, light-footed Gilles Simon is the only player in this group to hav
 
 The distance characteristics and how they correlate with points played has been fairly consistent for all of the years presented. We can see, however, some unusual things going on in 2014. There are a cluster of points in 2014 that have the smallest distances covered across all these data. Many of these were first and second round matches that were likely affected by the extreme heat wave that hit the first week of the 2014 Australian Open. That year, for example, we saw more retirements than usual, including Tomic's bowing out against Rafael Nadal and Andrey Golubev retirement against Stan Wawrinka, two of the outlier matches in Figure 1. 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1034.embed"></iframe>
+<iframe width="900" height="1200" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1034.embed"></iframe>
 
 
 Any player might have to cover long distances in a tightly contested match. But for which players is _going the distance_ a characteristic of their playing style? To get at this question, we can look at the average distance covered in a point. We find several players known to grind out points at the top of the list, including Andy Murray, David Ferrer, and marathoner Gilles Simon. All of these players cover an average of 38 feet or more per point. Novak Djokovic and Rafael Nadal are right on the heels of that number with average distances of 35 feet and 34 feet per point. 
@@ -27,7 +27,7 @@ Any player might have to cover long distances in a tightly contested match. But 
 At the bottom of the list, we find some of the biggest servers in the game. Nick Kyrgios and Milos Raonic like to keep points short and keep their movement to a minimum. Both players cover only 25 feet in a typical point. Sam Groth and John Isner push this playing style to an even greater extreme, covering a little over 20 feet on average per point. 
 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1036.embed"></iframe>
+<iframe width="900" height="1200" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1036.embed"></iframe>
 
 I've included the maximum differences covered in a point for the same players to show the wide range between what is normal and what is the upper limit of what might be expected. Even for the Isners of the tour, having to cover 250 feet or more in a point wouldn't be impossible. So even players with a movement-minimizing style of play still have to be able to utilize their endurance for the rare epic point that could happen in a match. 
 

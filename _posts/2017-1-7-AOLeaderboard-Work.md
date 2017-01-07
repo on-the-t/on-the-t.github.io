@@ -20,7 +20,7 @@ To try to shed more light on work in tennis, the Game Insight Group at Tennis Au
  Hard-working Rafael Nadal is also in the top 10 workers among the men and Novak Djokovic and Roger Federer aren't much further behind, though Djokovic had a higher average work per point among these three. 
 
 
-<iframe width="900" height="1500" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1042.embed"></iframe>
+<iframe width="900" height="1200" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1042.embed"></iframe>
 
 _Who works the least per shot?_ A lot of the players toward the bottom of the list are players who heavily rely on their serve, such as Nicolas Almagro, Ivo Karlovic and John Isner. Interestingly, big-serving Milos Raonic has a relative high rate of work per shot compared to the other heavy-hitting servers. It will be interesting to see how that distinction in Raonic's playing style could help the rising star. 
 
@@ -29,7 +29,7 @@ Work rates for women are generally lower than for the men, largely due to their 
 
 As with the men, we see some of the biggest hitters among the work minimizers, like Serena Williams and Petra Kvitova. As with the power of their groundstrokes, these players are likely to be more selective about when they use the power of their movement. 
 
-<iframe width="900" height="1500" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1044.embed"></iframe>
+<iframe width="900" height="1200" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1044.embed"></iframe>
 
 
 Their are some factors that contribute to work that we aren't yet able to measure. Namely the upper body movement and energy exerted in the actual action of making impact. If we could, you might see player's like Nadal move up the list. For now, we are able to capture foot movement and that gives us a starting place for thinking about player work on court in a more systematic way. It has already revealed interesting findings, like how, in terms of the work of foot movement, Sir Andy Murray sets himself a part from many other top players. We will get a chance to see that work ethic put to its toughest test so far for the season when Murray and Djokovic face off in the Qatar Open finals. 

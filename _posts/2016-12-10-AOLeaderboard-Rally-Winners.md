@@ -13,23 +13,23 @@ Since rally lengths are heavily influenced by the effectiveness of serve&mdash; 
 
 Since these numbers are focusing on win percentage, we see many recognizable names at the top of the list: Novak Djokovic, Andy Murray, Rafael Nadal. We also see a universal advantage of serve by the fact that, given a shot point, all servers at the top of the sport are more likely to have been the winner of the point. However, the advantage the serve gives varies widely. Take Roger Federer who won 81% of short rallies when serving but only 51% of long rallies. Contrast that differential with Fabio Fognini who won 68% of short and 54% of long rallies on serve.
 
-<iframe width="900" height="1000" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1020.embed"></iframe>
+<iframe width="900" height="1200" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1020.embed"></iframe>
 
 
 If we switch to the other perspective and look at the win percentages by rally when players are returning, the story of course flips. Figure 1b now gives us insight into the players who do best when dealt a weaker serve. We see that Novak Djokovic and Kei Nishikori are pretty exceptional in leading long rally win percentages whether serving or receiving. Really any player from Juan Martin Del Porto and above are impressive because they, at win percentages of 50% or above, are eliminating the advantage of their opponent's serve after two shots. 
 
 
-<iframe width="900" height="1000" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1022.embed"></iframe>
+<iframe width="900" height="1200" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1022.embed"></iframe>
 
 On the women's side, the serve is still a strong determinant of rally lengths and wins but the effect is less stark than what we observe on the men's side (Figure 2a). In fact, we see an interesting pattern for the players who have won some of the highest percentage of long rallies when serving, such as winner of the 2016 WTA Finals Dominika Cibulková and Lucie Safarova. For these players, rally length is virtually irrelevant to their win percentage on serve. 
 
 Players like Madison Keys and Serena Williams have patterns that are more in keeping with what we see on the men's game: a 10 to 20 percentage point advantage in winning points on serve when points are short.
 
 
-<iframe width="900" height="1000" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1024.embed"></iframe>
+<iframe width="900" height="1200" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1024.embed"></iframe>
 
 The rally length effect is most dramatic when we look from the perspective of the receiver. Female receivers are in a much better person of taking control of the point after two shots than male receivers. And several players appear to be masters of taking advantage of a long-rally opportunity. Cibulkova and Johanna Konta are both players who, with win percentages on long rallies of over 60%, should make the servers they face nervous if a point doesn't end quickly.
 
-<iframe width="900" height="1000" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1026.embed"></iframe>
+<iframe width="900" height="1200" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1026.embed"></iframe>
 
 {% include twitter_plug.html %}

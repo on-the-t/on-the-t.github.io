@@ -19,10 +19,8 @@ We find Aussie Nick Kyrgios at the top of the pack with an expected reaction tim
 
 Andy Murray eliminated Stan Wawrinka from the Tour Finals on Friday and also edges him out on his reaction time, taking 0.64 seconds to return, on average, compared to 0.65 seconds for Wawrinka. Murray will face Milos Raonic in the semifinals and might be somewhat reassured to find that Raonic is something of an outlier when it comes to returning serve, taking 0.70 seconds to return serve on average. That could be a key advantage for the World No. 1. 
 
-<div>
-    <a href="https://plot.ly/~on-the-t/988/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/988.png" alt="" style="max-width: 100%;width: 700px;"  width="700" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="on-the-t:988"  src="https://plot.ly/embed.js" async></script>
-</div>
+
+<iframe width="900" height="1200" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/988.embed"></iframe>
 
 
 When we turn to the women's side, we find more reaction times of top players that are greater than 0.7 seconds, which we can attribute to the slower paced serve on the women's game. Still a few women have reaction times that are so fast they are competitive with the men's game. At the top of the list is Venus Williams with a lightning-fast 0.67 seconds to return. Here sister Serena is not too far behind with a time of 0.69 seconds, a time that Ana Ivanovic, Eugenie Bouchard and Garbine Muguruza hover around as well. 
@@ -30,10 +28,9 @@ When we turn to the women's side, we find more reaction times of top players tha
 On the slower reaction side, we see some of the players with a more defensive style of play including Caroline Wozniacki, with a time of 0.76 seconds, and Sara Errani, with a time of 0.8 seconds. I was surprised to see Madison Keys and Simona Halep also in the group with 0.78 seconds or more to return as I think of them as being more aggressive on the return that those numbers would imply. It may be that, while some of the women in this group hit the ball hard on the return, they lose some time by being positioned further from the baseline. Still, it would take some more digging into the data to see whether that conclusion held up.
 
 
-<div>
-    <a href="https://plot.ly/~on-the-t/990/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/990.png" alt="" style="max-width: 100%;width: 700px;"  width="700" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="on-the-t:990"  src="https://plot.ly/embed.js" async></script>
-</div>
+
+<iframe width="900" height="1200" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/990.embed"></iframe>
+
 
 
 

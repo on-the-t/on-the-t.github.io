@@ -18,10 +18,8 @@ There are about 20 players whose forehand is typically within 0.6 meters of the 
 
 We can see from the swirl of points around the forehand that the backhand characteristics can differ wildly from the forehand. This suggests some different strategic patterns in the style of shots with some players having a flat forehand and spinny/looser backhand (Jo-Wilfried Tsonga and Jeremy Chardy), players who play fairly flat on both strokes (Bernard Tomic and Andreas Seppi) and players who tend more on the spinny side on both (Lleyton Hewitt and Andy Murray). And, depending on the mix of flat and spinny shots for each stroke, there could be numerous variants among these.
 
-<div>
-    <a href="https://plot.ly/~on-the-t/980/" target="_blank" title="B vs F" style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/980.png" alt="B vs F" style="max-width: 100%;width: 650px;"  width="650" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="on-the-t:980"  src="https://plot.ly/embed.js" async></script>
-</div>
+
+<iframe width="900" height="1200" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/980.embed"></iframe>
 
 
 On the women's side, we see several of the big and flattest hitting players in the top 10 of forehand net clearance: Madison Keys, Petra Kvitova, and Garbine Muguruza. Each of the players in this group have an average height off net of 0.55 meters or less. Female players competing at Grand Slams are more likely to have looping shots on both the forehand and backhand in contrast with male players. Sara Errani and Saisai Zheng are two players who have managed to have success on tour despite having some of the loopiest forehands in the game. 
@@ -29,11 +27,7 @@ On the women's side, we see several of the big and flattest hitting players in t
 As we observed with the ATP, there is little agreement between the height characteristics of backhands and forehands for most WTA players. Some interesting exceptions are Serena Williams, Maria Sharapova and Joanna Konta whose average height on the forehand and backhand are virtually indistinguishable. 
 
 
-<div>
-    <a href="https://plot.ly/~on-the-t/982/" target="_blank" title="B vs F" style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/982.png" alt="B vs F" style="max-width: 100%;width: 650px;"  width="650" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="on-the-t:982"  src="https://plot.ly/embed.js" async></script>
-</div>
-
+<iframe width="900" height="1200" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/982.embed"></iframe>
 
 
 {% include twitter_plug.html %}

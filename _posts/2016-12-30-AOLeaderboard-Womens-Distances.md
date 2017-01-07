@@ -16,14 +16,14 @@ At the past three years at the Australian Open, the typical distance covered by 
 We don't find [any Simons](http://on-the-t.com/2016/12/24/AOLeaderboard-Mens-Distances/) among the women, that is, a player who had several marathon matches in recent AOs. There are a cluster of matches with the shortest distances covered that involve Serena Williams, however (You can hover over the points in Figure 1 to find them). By keeping matches and the number of shots per point to a minimum, Williams saves herself from a lot of travel on court. 
 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1038.embed"></iframe>
+<iframe width="900" height="1200" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1038.embed"></iframe>
 
 
 When we look at the average distances covered per point to try to characterise the movement patterns in the men's game, we found that the range was from a low of 25 feet (John Isner) to nearly 40 feet (the likes of Andy Murray and Simon). Women's averages are right in that ballpark as well. Among the women who cover the most distances during a point, like Aga Radwanska and Caroline Wozniacki, they are also hitting distances of 38-40 feet in a point (Figure 2).
 
 Like we saw with the men, the big-hitting players (especially on serve), like Karolina Pliskova and Serena Williams, keep the distance travelled to a minimum. With averages of 20-21 feet, this suggests that some female players are even more effective at controlling their movement on court than the bigs on the men's side.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1040.embed"></iframe>
+<iframe width="900" height="1200" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1040.embed"></iframe>
 
 
 

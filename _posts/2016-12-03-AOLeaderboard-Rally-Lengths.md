@@ -19,10 +19,8 @@ Using the _first strike_ threshold to differentiate short from long rallies, we 
 
 Although Rafael Nadal is regarded as playing unusually long rallies, we find that, at least on hard court, he is fairly typical. In fact, Nadal's frequency of 28% of rally lengths over 4 shots puts him behind Andy Murray and Novak Djokovic, who each get into long rallies 34% of the time on hard court, making them two of the longest ralliers in the game. 
 
-<div>
-    <a href="https://plot.ly/~on-the-t/1016/" target="_blank" title=" vs " style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/1016.png" alt=" vs " style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="on-the-t:1016"  src="https://plot.ly/embed.js" async></script>
-</div>
+<iframe width="900" height="1200" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1016.embed"></iframe>
+
 
 When we look at how the typical rally lengths change on a player's second serve, we see that most players are much more likely to get into long rallies on these points than other points. Take Nicolas Almagro, for example. Almagro tends to keep rallies very short on most points (whether serving or returning), as he gets into long rallies only 20% of the time. Yet on his second serve, that percentage shoots up to 38%. 
 
@@ -35,10 +33,9 @@ Longer rallies on the WTA are more common, with 90% of top women players having 
 
 On the other end of the spectrum, we find Angelique Kerber, Simona Halep, and Victoria Azarenka among the longest ralliers in the women's game. Each of these players have gotten into rallies of more than 4 shots more than 40% of the time at past AOs. 
 
-<div>
-    <a href="https://plot.ly/~on-the-t/1018/" target="_blank" title=" vs " style="display: block; text-align: center;"><img src="https://plot.ly/~on-the-t/1018.png" alt=" vs " style="max-width: 100%;width: 800px;"  width="800" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="on-the-t:1018"  src="https://plot.ly/embed.js" async></script>
-</div>
+<
+<iframe width="900" height="1200" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1018.embed"></iframe>
+
 
 In contrast with the men's game, we find much more variation in differences between average rally lengths and rally lengths on second serves among female players. We see, in particular, a larger subset of players who have shorter rallies on second serve than their average rally lengths, including Camila Giorgi and Flavia Pennetta. It seems from this that, while the serve might be less dominate on the women's game, it could make for a more interesting variety of playing styles. 
 
