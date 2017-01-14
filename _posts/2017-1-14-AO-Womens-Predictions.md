@@ -10,7 +10,7 @@ With the release of the 2017 Australian Open draw yesterday, the tennis world wi
 <div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:594px;float:left; padding:2%;"><div style="padding:0;margin:0;text-align:left;"><a href="http://www.gettyimages.com/detail/507520392" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">Embed from Getty Images</a></div><div style="overflow:hidden;position:relative;height:0;padding:66.666667% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/507520392?et=tFI7vuwaQWJSSm6sNzPkzQ&viewMoreLink=on&sig=l6es5GfFUyZ8LP1EXrG5LSHqxiUqS4W_nZdDQCibEEI=&caption=true" width="594" height="396" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;margin:0;"></iframe></div><p style="margin:0;"></p></div>
 
 
-My previous post released GIG predictions for the men's draw. In this post, we focus on the women's event. As with the men's predictions, these forecasts are based on women's Elo ratings, which take into account a player's results, the difficulty of their opponents, and the recency of the results. We also make an adjustment for players, like Serena Williams and Sara Errani who cut their 2016 seasons short, which results in more bearish forecasts. Although we don't account for intangibles like player confidence or fitness, we do update ratings as the event progresses and the approach has worked well historically.
+My previous post released GIG predictions for the men's draw. In this post, we focus on the women's event. As with the men's predictions, these forecasts are based on women's Elo ratings, which take into account a player's results, the difficulty of their opponents, and the recency of their results. We also make an adjustment for players, like Serena Williams and Sara Errani who cut their 2016 seasons short, which results in more bearish forecasts. Although we don't account for intangibles like player confidence or fitness, we do update ratings as the event progresses and the approach has worked well historically.
 
 
 Let's start with our favorites for the title...
@@ -547,7 +547,7 @@ Aga Radwanska must be nervous about the prospect of a quarterfinal match with Ka
 
 Some tough contests we expect for the first round in this quarter are the Yulia Putintseva and Lara Arruabarrena, Ana Konjuh and Kristina Mladenovic, and Magda Linette and Mandy Minella; all of which have nearly even odds.
 
-Two of Australias strongest players, Sam Stosur and Dasha Gavrilova, will also be fighting their way thru this quarter to get to the second week. Stosur will have the tougher first round in drawing Heather Watson and will need to shake off a number of demons to live up to expectations there.
+Two of Australia's strongest players, Sam Stosur and Dasha Gavrilova, will also be fighting their way thru this quarter to get to the second week. Stosur will have the tougher first round in drawing Heather Watson and will need to shake off a number of demons to live up to expectations there.
 
 <script type="text/javascript">
  
