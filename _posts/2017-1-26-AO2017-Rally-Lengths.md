@@ -10,7 +10,7 @@ With the prospect of a Rafael Nadal and Roger Federer final at this year's Austr
 
 But if there is any consistency with what we have seen so far at the 2017 AO, we can expect points in the second week to be shorter than any time in recent history.  
 
-Using data from [Tennis Abstract's Match Charting Project](http://www.tennisabstract.com/charting/meta.html), I've charted the average rally lengths by surface for over 10 years of ATP and WTA data. We see that the typical lengths have been between 4.5 and 5.5 shots per rally (including the serve as shot 1), with grass tending to have the fewest shots and clay the most shots. 
+Using data from [Tennis Abstract's Match Charting Project](http://www.tennisabstract.com/charting/meta.html), I've charted the average rally lengths (and IQR) by surface for over 10 years of ATP and WTA data. We see that the typical lengths have been between 4.5 and 5.5 shots per rally (including the serve as shot 1), with grass tending to have the fewest shots and clay the most shots. 
 
 Interestingly, since 2010, the average shots per point on the men's tour has been trending down for all surfaces. On the women's tour, rally lengths have been more stable. 
 
