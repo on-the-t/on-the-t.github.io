@@ -12,22 +12,22 @@ Most of the time I've been working with Elo I have used ratings that were based 
 Using match outcome from 1991 to the present, the RMSE for men shows a very subtle change whether we include Futures and Challengers or we don't. The RMSE is modestly reduced at the lower tier events and gets progressively smaller as the strength of event increases.
 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1126.embed"></iframe>
+<iframe width="800" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1126.embed"></iframe>
 
 _Why don't lower tier events make more of an impact on predictions?_
 
 If we compare the predictions with and without ITF and Challenger events directly, we see that there is a positive correlation and that correlation improves at higher level events. We see there can be a lot of variance for some range of the ratings but this tends to be largest closer to predictions of 50%. Given the modest improvement, it appears that, where predictions differ, the inclusion of all match results sometimes is a benefit but often is not.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1128.embed"></iframe>
+<iframe width="800" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1128.embed"></iframe>
 
 Patterns in error for the WTA show similar results. We see improvements mostly at international events when predictions include all events history, but improvements are small elsewhere. 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1130.embed"></iframe>
+<iframe width="800" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1130.embed"></iframe>
 
 
 The correlations between the two types of Elo approaches also have a similar pattern as the men. The correlations are positive but quite weakly associated especially in the middle range of predictions.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1132.embed"></iframe>
+<iframe width="800" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1132.embed"></iframe>
 
 
 _Why don't we see more of a difference from two dramatically different Elo methods?_ I think it is an issue of mixing.
