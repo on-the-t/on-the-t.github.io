@@ -18,7 +18,7 @@ Below is the set by set breakdown in quality of shot, where 100 points means the
 
 Many fans were probably most eager to see the single-handed backhands of both players on full display. Although Wawrinka is often considered to have the superior backhand of the two, in this match, Federer actually had the better overall quality. I think the differences are likely due to Federer playing more backhand shots on the approach and at net, while Wawrinka was generally more defensive about his shot selection. 
 
-The forehand was the most variable in terms of the dominant player. Federer and Wawrinka were close to even in the first, third and fifth set, each of which Federer won. In the fourth, Wawrinka's quality took a dive but was the highest of any player in the fourth. 
+The forehand was the most variable in terms of the dominant player. Federer and Wawrinka were close to even in the first, third and fifth set, two of which Federer won. In the fourth, Wawrinka's quality took a dive but was the highest of any player in the fourth. 
 
 While neither player was at their best in all sets, they hit some impressive highs in the quality of their play. Federer was the most consistent overall and that could have much to do with how he has managed to reach his 28th Grand Slam final.
 
