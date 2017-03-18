@@ -10,13 +10,16 @@ If tennis fans thought Roger Federer's Australian Open win over Rafael Nadal was
 
 In his straight-set desert victory, Federer needed just a little over an hour to get into the quarterfinals. Giving no break points to Nadal while converting 4 of 5 break point opportunities himself, Federer made surviving the "Group of Death" look easy. Even Nadal had to acknowledge that [he was outplayed](http://www.atpworldtour.com/en/news/nadal-indian-wells-2017-wednesday). 
 
+
 _With two consecutive victories over the Spaniard that has had the upperhand so often in the past, everyone is asking how, at the age of 35, has Federer seemed to turn the tables?_
+
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/GuPGpLwR1FE?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0;padding:2%;" allowfullscreen></iframe></div>
 
 Many, including Chris Clarey of the [New York Times](https://nyti.ms/2m2eHqd) and Jeff Sackmann of [Tennis Abstract](http://www.tennisabstract.com/blog/2017/01/30/the-federer-backhand-that-finally-beat-nadal/), have pointed to Federer's backhand as a key ingredient to his new-found success against Nadal. In the past, Federer's single-handed backhand would struggle to handle the extreme height and spin of Nadal's serves and rally shots. But, in his matches against Nadal this year, his backhand has been more of a weapon than a weakness.
 
 `What exactly has changed?`
 
-A look at the trends at their Australian Open meetings from 2012 on can help to answer this question. First, if we look at the speed of the Federer backhand we see that it has increased significantly from 2012 to 2017. This is true for both the serve return and rally backhands. For the backhand on serve return, Federer's median speed has increased from 102 kph in 2012 to 106 kph in 2017. The gain is even more considerable for his backhand in rallies, where the median increase was from 111 kph to 120 kph over the same time period.
+A look at the trends at their Australian Open meetings from 2012 on can help to answer this question (see videocast above). First, if we look at the speed of the Federer backhand we see that it has increased significantly from 2012 to 2017. This is true for both the serve return and rally backhands. For the backhand on serve return, Federer's median speed has increased from 102 kph in 2012 to 106 kph in 2017. The gain is even more considerable for his backhand in rallies, where the median increase was from 111 kph to 120 kph over the same time period.
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1136.embed"></iframe>
 
