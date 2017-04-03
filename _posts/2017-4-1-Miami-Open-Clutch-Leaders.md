@@ -14,7 +14,7 @@ The first set of clutch rankings for this year's Miami Open look at the cumulati
 
 ### Men's Singles
 
-When we look at the top 10 men on overall clutch, we find Fabio Fognini at number 1 with a cumulative total of 653.7. That put his overall performance ahead of the man who would take him out of the event, Rafael Nadal. But Nadal's performance thru to the semifinal still put him far in front of the other two semifinalists, Roger Federer and Nick Kyrgios, by more than 50 points on overall clutch. Federer and Kyrgios, who are now in a streak of 6 consecutive tiebreaks played, no a thing or two about pressure and, at Miami this year, they both excelled in pressure moments. 
+When we look at the top 10 men on overall clutch, we find Fabio Fognini at number 1 with a cumulative total of 653.7. That put his overall performance ahead of the man who would take him out of the event, Rafael Nadal. But Nadal's performance thru to the semifinal still put him far in front of the other two semifinalists, Roger Federer and Nick Kyrgios, by more than 50 points on overall clutch. Federer and Kyrgios, who are now in a streak of 6 consecutive tiebreaks played, know a thing or two about pressure and, at Miami this year, they both excelled in pressure moments. 
 
 But one of the most surprising performances this year had to be Tomas Berdych who came in number 5 among the men's clutch leaders. It had to be heartbreaking for Berdych, when his run was ended by Federer in the quarterfinal. But it still a better result than his 2016 season would have predicted and one that should give him confidence going into the clay court swing. 
 
