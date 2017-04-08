@@ -14,6 +14,9 @@ The actual statistic we developed is a cumulative win score that not only consid
 
 _But how exactly do we score a match result to reflect the difficulty of the opponent?_
 
+
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/r5fviiO86wA?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0;padding:2%;" allowfullscreen></iframe></div>
+
 We incorporate opponent difficulty into our score by using player Elo ratings. Elo ratings are a type of power ranking that have been used throughout sport for decades. In tennis, an Elo rating is a number that reflects a player's strength at any given time, accounting for all of the player's career wins and losses and giving greater weight for wins over the hardest opponents, while penalizing more heavily for surprising losses. Players who just enter the tour begin at a rating of 1500 and that grows as they add to their win record. Roger Federer's career peak Elo was a high of 2,524, which he reached in 2007. His current Elo is 2,373.
 
 One of the strengths of Elo ratings is that, given a player's current Elo rating, there is a fairly simple formula that can tell us that player's chance of winning against any Elo-rated opponent. Moreover, the accuracy of Elo predictions have been shown to outperform predictions based on ATP World Rankings by as much as 10%. And this is the main reason why we don't simply assign a score based on ranking points. You can read more about Elo ratings and how they are used in tennis on the [_Tennis Abstract_](http://www.tennisabstract.com/blog/category/elo-ratings/) and on [_FiveThirtyEight_](http://fivethirtyeight.com/features/how-were-forecasting-the-2016-us-open/).
