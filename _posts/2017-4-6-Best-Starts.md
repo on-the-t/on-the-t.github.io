@@ -124,7 +124,7 @@ Others might wonder why past legends like Jimmy Connors or Guillermo Vilas don't
 </table>
 
 
-Federer's 2017 season has been one of the biggest surprises in tennis this year. But with Federer being more selective about events and the one shocking loss to Evgeny Donskoy in the second round of Dubai puts his season start as the 52nd all-time best. Since 2000, the first year Federer competed in the main draw of he Australian Open, his 2017 start comes in 7th among his best, coming in just behind his 2009 season. 
+Federer's 2017 season has been one of the biggest surprises in tennis this year. But with Federer being more selective about events and the one shocking loss to Evgeny Donskoy in the second round of Dubai puts his season start as the 52nd all-time best. Since 2000, the first year Federer competed in the main draw of the Australian Open, his 2017 start comes in 7th among his best, coming in just behind his 2009 season. 
 
 Below, we can get more perspective on Federer's season-by-season evolution and how his 2017 compares. His 2005 and 2006 are clearly the far and above the other starts in his career. But interestingly his 2017 start is right on track with those in terms of his match-to-match score rate. He is simply playing less now than he has before.
 
