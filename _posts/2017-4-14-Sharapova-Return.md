@@ -22,7 +22,7 @@ At the end of Sharapova's loss to Serena Williams in the quarterfinal of the 201
 
 If Sharapova is able to play to her level at that start of 2016, where would that put her win expectations against the current top 20 players who have been competitive in 2017? Based on the Elo ratings of the best female players at the end of the first quarter of 2017, Sharapova would be expected to have a strong edge over most. For all but the top 7 players, from Madison Keys down, Sharapova's match win expectation would be over 75%. Among the top 7, her chances are more than 65% for all but two players: Johanna Konta and Serena Williams. And Serena Williams is the only current player with a higher ranking and, consequently, the only opponent Sharapova would have a less then 50% expected chance of defeating.
 
-<iframe width="900" height="700" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1154.embed"></iframe>
+<iframe width="900" height="750" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1154.embed"></iframe>
 
 Taken at face value, Elo gives a very positive outlook for Sharapova. Add on top of that the uncertainty about the events Serena Williams is going to play during the clay court season, Sharapova would appear to have a clear path back to the top of the game.
 
