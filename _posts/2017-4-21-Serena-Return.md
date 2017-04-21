@@ -43,6 +43,6 @@ The charts below summarise Williams' serve return position on first serve. For s
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1164.embed"></iframe>
 
-With motherhood, Serena Williams will face a whole new set of joys as well as challenges. How all of these changes will affect her ability to return the sport is difficult to project, especially at this early stage. If the recent past in her performance can shed any light on the question, it does show us that she has been able to adapt her game to a more energy-conserving style of play while maintaining her match dominance. That could prove to be a winning formula if, as a mother, Williams make a return to the professional game. 
+With motherhood, Serena Williams will face a whole new set of joys as well as challenges. How all of these changes will affect her ability to return to the sport is difficult to project, especially at this early stage. If the recent past in her performance can shed any light on the question, it does show us that she has been able to adapt her game to a more energy-conserving style of play while maintaining her match dominance. That could prove to be a winning formula if, as a mother, Williams make a return to the professional game. 
 
 {% include twitter_plug.html %}
