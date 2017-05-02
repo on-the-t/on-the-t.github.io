@@ -36,7 +36,7 @@ The first chart below shows Federer and Murray's positions at the start of Zvere
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1170.embed"></iframe>
 
-Next we see where each player moved once Zverev was settled at net. Interestingly, Federer has a much more consistent pattern of going slightly to the left and a step or two inside the baseline. This position would give Federer more ability to use his forehand and give him less space to have to cover if he were to come ti net. Murray has some overlap with the positioning of Federer, but he keeps deeper into the court and also has some occasions of getting pulled off to the right, again leaving more of an open court on his backhand side. 
+Next we see where each player moved once Zverev was settled at net. Interestingly, Federer has a much more consistent pattern of going slightly to the left and a step or two inside the baseline. This position would give Federer more ability to use his forehand and give him less space to have to cover if he were to come to net. Murray has some overlap with the positioning of Federer, but he keeps deeper into the court and also has some occasions of getting pulled off to the right, again leaving more of an open court on his backhand side. 
 
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1172.embed"></iframe>
@@ -46,7 +46,7 @@ When we then look to where Federer and Murray were at the time of their next sho
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1174.embed"></iframe>
 
 
-The clip from the 4th game of the 2nd set shown above shows an example of how Zverev played to Murray's backhand and won a high percentage of net points. Although positioning isn't the whole story, it does appear that, compared to Federer, Murray might have helped Zverev carry out his strategy by leaving more of the court on the left-hand side open to attack. Without more data on positioning from his other matches, we can't say whether the same pattern underlied his struggles against other net game strategies but it will be something we can watch for over the rest of the season.
+The clip from the 4th game of the 2nd set shown above shows an example of how Zverev played to Murray's backhand and won a high percentage of net points. Although positioning isn't the whole story, it does appear that, compared to Federer, Murray might have helped Zverev carry out his strategy by leaving more of the court on the left-hand side open to attack. Without more data on positioning from his other matches, we can't say whether the same pattern underlay his struggles against other net game strategies but it will be something we can watch for over the rest of the season.
 
 
 {% include twitter_plug.html %}
