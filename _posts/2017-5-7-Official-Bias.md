@@ -50,7 +50,7 @@ This highlights an example of _impact bias_. This bias arises when officials are
 
 <iframe width="900" height="700" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1180.embed"></iframe>
 
-Sadly, this impact bias is much harder to detect than a bad call but more likely to occur than the kind of mistake we saw in the Monte Carlo semifinal. But there are ways the system could be remedied. I would propose an independent review, like what is used in the MLB, that would be done for every overturned 'out' call. Because this review would be anonymous and the decision-makers distant from the actual match, impact bias would be less likely. It is just a matter of making sure the review would be speedy enough not to be acceptable to fans and players. 
+Sadly, this impact bias is much harder to detect than a bad call but more likely to occur than the kind of mistake we saw in the Monte Carlo semifinal. But there are ways the system could be remedied. I would propose an independent review, like what is used in the MLB, that would be done for every overturned 'out' call. Because this review would be anonymous and the decision-makers distant from the actual match, impact bias would be less likely. It is just a matter of making sure the review would be speedy enough to be acceptable to fans and players. 
 
 
 {% include twitter_plug.html %}
