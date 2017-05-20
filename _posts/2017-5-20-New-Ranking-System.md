@@ -28,11 +28,11 @@ Nevertheless, with the surprising results this year there are bound to be commen
 
 One of the main purposes of the WTA Officials Rankings is for event seeding. Most tournaments use Official Rankings to not only decide who gets into an event but also how they should be placed in the draw, so that the best players are most likely to advance to the final rounds. The tournament is effectively making a prediction with each seed, the No. 1 their favorite for the title, the No. 2 the runner-up, and so on.
 
-This means that, by and large, there is a direct relationship between a player's ranking and expectations about their results at events. In fact, gurus of tennis statistics, [Klaassen and Magnus](http://www.janmagnus.nl/papers/JRM057.pdf), figured out a simple formula for converting a player's ranking into the expected rounds they will reach at an event. Here is the formula:
+This means that, by and large, there is a direct relationship between a player's ranking and expectations about their results at events. In fact, gurus of tennis statistics, [Klaassen and Magnus](http://www.janmagnus.nl/papers/JRM057.pdf), figured out a simple formula for converting a player's ranking into the expected rounds they will reach at an event. Here is the formula: 
 
-$$
-\mbox{Expected Round} = \mbox{Max Round} - log_2(Ranking)
-$$
+<div style = "margin-left:25%;">
+<img src="/assets/eq1.jpeg" width = "400"/>
+</div>
 
 As an example, if a player is entering a Grand Slam, the max round is 8 (total rounds  + 1), and the expected round for the No. 1 seed is 8 (winning the title), for the No. 2 seed is 7 (being runner up), for the No. 4 seed is 6 (exiting in the semifinal), etc.
 
