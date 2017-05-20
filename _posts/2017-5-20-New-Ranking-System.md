@@ -12,7 +12,7 @@ the 68th ranked player on tour, Anett Kontaveit, in straight sets. Despite holdi
 
 Kerber's loss continues an undesirable streak for No. 1 seeds in the 2017 WTA season. Look across the 11 results at Premier-level events or better this year and you will not find a single No. 1 seed among their champions. Kerber's loss in Rome this week brings that tally to 12. 
 
-This puts WTA No. 1 seeds on track to hit an all-time low for title wins at top events. Since 2009, tour No. 1 seeds have won at least 15% or more of Premier and Grand Slam titles by the halfway mark of the calendar. 2016 was the first year that only one title was earned by the No. 1 seed by the end of the French Open. If Roland Garros crowns a lower seed this year, 2017 will be even worse with 0 titles won by No. 1 seeds.
+This puts WTA No. 1 seeds on track to hit a startling low for title wins at top events. Since 2009, tour No. 1 seeds have won at least 15% or more of Premier and Grand Slam titles by the halfway mark of the calendar. 2016 was the first year that only one title was earned by the No. 1 seed by the end of the French Open. If Roland Garros crowns a lower seed this year, 2017 will be even worse with 0 titles won by No. 1 seeds.
 
 
 <iframe width="800" height="700" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1207.embed"></iframe>
