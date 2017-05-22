@@ -22,15 +22,15 @@ But even with the uncertainties circling Djokovic, Murray has to be the biggest 
 
 Wins are one thing. But when we move to the best of 5 format of a Grand Slam it is important to go deeper into _how_ players have won if we want to understand their prospects for the Major title. In the chart below, I've taken a look at how each of the four contenders have performed on serve during the clay season so far. Since serve performance will be influenced by the quality of the receiver, these stats are adjusted for the return ability of the opponent, which attempts to remove the effect of opponent when comparing the serve performance among players.
 
-Nadal leads the charge with an average _adjusted_ serve win percentage of 75%, while Murray is at the bottom of the group with a dismaying average of 60%. Thiem takes the second spot with an average of 71% on serve and Djokovic is second to last with 67%
+Nadal leads the charge with an average _adjusted_ serve win percentage of 75%, while Murray is at the bottom of the group with a dismaying average of 60%. Thiem takes the second spot with an average of 71% on serve and Djokovic is second to last with 67%.
 
 <iframe width="800" height="700" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1209.embed"></iframe>
 
-Nadal has not only disntiguished himself on serve by several percentage points on average, he has also been extremely consistent. There have been only three matches where he has performed at 60% or less on serve, what has been the average for Murray. However, Thiem beats Nadal when it comes to serve consistency, with only one match where he performed at 60% or less, that match being his loss to Djokovic in Rome, his last match after several grueling weeks of high-level caly tennis. 
+Nadal has not only distinguished himself on serve by several percentage points on average, he has also been extremely consistent. There have been only three matches where he has performed at 60% or less on serve, what has been the average for Murray. However, Thiem beats Nadal when it comes to serve consistency, with only one match where he performed at 60% or less, that match being his loss to Djokovic in Rome, his last match after several grueling weeks of high-level clay tennis. 
 
 Both Thiem and Djokovic have shown signs of building momentum as they have gotten deeper into the clay court season, which could given them more of an edge going into the French than their average serve performance would suggest. Murray, on the other hand, hasn't had a good result on clay yet. 
 
-Serve is only one aspect of the game, but it is one of the most critical ingredients for stringing together seven wins at a Major. Nadal and Thiem are in the best position among these four, with Nadal still far in the lead. There are signs that, if Djokovic can pick up from his form in Rome, that he could also be a threat to Nadal and Thiem. Murray, on the other hand, will have a steep uphill battle to not repeat the early round loses he has already suffered on clay this year. All the signs suggest tt will take a 2016 Cavs-like comeback to see Murray in the finals this year.
+Serve is only one aspect of the game, but it is one of the most critical ingredients for stringing together seven wins at a Major. Nadal and Thiem are in the best position among these four, with Nadal still far in the lead. There are signs that, if Djokovic can pick up from his form in Rome, that he could also be a threat to Nadal and Thiem. Murray, on the other hand, will have a steep uphill battle to not repeat the early round loses he has already suffered on clay this year. All the signs suggest it will take a 2016 Cavs-like comeback to see Murray in the finals this year.
 
 {% include twitter_plug.html %}
 
