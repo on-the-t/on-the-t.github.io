@@ -11,7 +11,7 @@ Now that the dust has settled at the Rome Masters, the tennis world is turning i
 
 Having won three of his clay court warm-ups to the French, Rafael Nadal is, deservedly, the strong favorite for his 10th title at Roland Garros and 53rd title on clay overall. Nadal's only loss on clay was to Dominic Thiem in Rome. Interestingly, among this four, Thiem has the second-most match wins on clay this season. Those two facts together could make him a surprising top threat to Nadal. 
 
-<iframe width="800" height="700" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1211.embed"></iframe>
+<iframe width="800" height="700" frameborder="0" scrolling="no" src="//plot.ly/~on-the-t/1211.embed"></iframe>
 
 At the start of the clay court season, there were high expectations for Murray and Djokovic, the official No. 1 and No. 2 in the World. But after three clay Masters events, there is not a single title among them. The disappointment of that stat is even greater when we consider that Murray hasn't faced Nadal yet on clay in 2017 and Djokovic only faced him once (the semifinal in Madrid). 
 
