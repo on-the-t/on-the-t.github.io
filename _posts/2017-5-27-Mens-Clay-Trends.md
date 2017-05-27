@@ -19,13 +19,13 @@ All of these four have been steadily improving during this period. Andy Murray a
 
 Thiem, the newbie among the group, has surged over the past 3 years. In that time, Thiem has gained 2 percentage points per year, as well, with no sign of a slow down. 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1217.embed"></iframe>
+<iframe width="900" height="600" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1217.embed"></iframe>
 
 It is intersting to see such a strong parallel in the steadily increasing trends for Djokovic and Nadal. Nadal has managed to edge Djokovic out by several percentage points on average for most of his career, until 2015 and 2016 when Djokovic was performing at a level equal to 2012-2013 Nadal. The dominance shifted back to Nadal this year, when he has performed at phenomenal average of 75% as Djokovic has hit a slump at dropped to 67%, his lowest average serve performance since 2010. 
 
 On the return, Murray is interestingly the only player of the four to show an upward trend in his performance, though the improvement per year has been less, on average, compared to his serve performance improvement. 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1219.embed"></iframe>
+<iframe width="900" height="600" frameborder="0" scrolling="no" src="https://plot.ly/~on-the-t/1219.embed"></iframe>
 
 Between 2008 and 2016, Djokovic was extremely consistent on return, maintaining an average between 49 and 50 percent in nearly every year. In light of his past performance, 2017 stands out for two reasons. First, Djokovic has had an average of only 44% return points won on serve, which is a recent low for him. Also, the range in his return performance has been massive, hitting lower lows and higher highs than at any other time in his career. 
 
